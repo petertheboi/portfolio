@@ -1,0 +1,42 @@
+    a.nav-link{
+			font-size: 1.1em;
+		}
+	a.nav-link:hover{
+			border-bottom: 1px solid green;
+		}
+	#in-1 {
+		height: 250px;
+	}
+	#ab-text {
+		margin-top: 40px;
+	}
+	#in-2{
+		margin-left: 30px;
+		margin-top: 50px;
+	}
+	body {
+		background: rgb(22, 27, 36);
+	}
+	#card-1,#card-3{
+		margin-left: 340px;
+	}
+	#service {
+		height: 600px;
+	}
+	#ab-1{
+		height: 300px;
+	}
+	#ab-title{
+		margin-top: 170px;
+	}
+	footer{
+		height: 75px;
+	}
+	#btn{
+		margin-left: 550px;
+	}
+	#img-1{
+		width: 250px;
+		height: 250px;
+		margin-left: 250px;
+	}
